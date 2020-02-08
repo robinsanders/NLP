@@ -1,0 +1,33 @@
+Model: 3gram, wocka, given initial words
+----------------------------------------------------
+
+Tell me hunny you forgot mine next
+Who is blithely eating his actions finally
+me know which shoes to compliment her
+very good wilfred but you musn t come bundled with freesexplus which
+is it illustrates another point women never listen either two nuns fighting
+are you thrashing the poor hapless soul who would unequivocally categorize the probowler s tour ireland rep adds lawsuit frontier screamin faa
+my god deems such things unlawful and apparently her legs forcing her gown at people jog around her carole lovingly said don
+tell me frankly do you certify that the stodgy air traffic controllers can apply for jobs outside
+tell me what happened next little old lady who lives south.
+tell me frankly do you call santa when it drains in the world - [smoothing 1]
+she is automatically given shotgun unless they decline amendment.
+he is going through cherry cheesecake withdrawal i d love.
+
+ISSUES:
+
+give me ambiguity or give me ambiguity or give me ambiguity or give me ambiguity or give
+
+----------------------------------------------------
+
+
+
+
+----------------------------------------------------
+
+REQUIRED NLTK ADDITIONALS
+
+punkt 
+averaged_perceptron_tagger
+
+----------------------------------------------------
